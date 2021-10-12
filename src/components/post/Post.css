@@ -1,0 +1,53 @@
+.post{
+    text-align: center;
+    margin: 0 20px;
+    padding-bottom: 30px;
+}
+
+.post .postimg{
+    max-width: 450px;
+    border-radius: 20px;
+}
+
+.post .postinfo{
+    text-align: center;
+}
+
+.postinfo .postcats {
+    padding-top: 5px;
+}
+
+.postinfo .postcats span{
+    font-size: 14px;
+    padding: 0 5px;
+    color: #D0B61D;
+    font-family: 'Lora', serif;
+}
+
+.postinfo hr{
+    color: #64676B;
+}
+
+.postTitle{
+    font-size: 18px;
+    text-transform: capitalize;
+    color: #64676B;
+    cursor: pointer;
+}
+
+.postDate{
+    font-size: 12px;
+    font-family: 'Lora', serif;
+    color: #64676B;
+    font-weight: 700;
+}
+
+.postdesc p {
+    font-size: 14px;
+    color: #64676B;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}

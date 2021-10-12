@@ -1,0 +1,40 @@
+.sidebar{
+    padding-top: 30px;
+    text-align: center;
+    color: #64676B;
+}
+
+.sidebar .sidebaritem{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.sidebaritem .siderbarTitle{
+    text-transform: uppercase;
+    padding-bottom: 20px;
+    color: #64676B;
+    text-decoration: overline;
+}
+
+.sidebaritem p{
+    padding-top: 20px;
+    margin-bottom: 0px;
+    font-size: 14px;
+    color: #64676B;
+}
+
+.sidebaritem img{
+    height: 400px;
+}
+
+.sidebaritem .list-group .list-group-item{
+    background-color: #EEF0F2;
+    border: unset;
+    color: #64676B;
+}
+
+.sidebaritem .sidebarSocial .icon{
+    padding: 0 10px;
+    cursor: pointer;
+}
+
